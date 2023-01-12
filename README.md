@@ -4,9 +4,11 @@
 
 ## LINK GITHUB PAGES
 
-[Deploy Github Pages]()
+[Deploy Github Pages](https://e-a-g-s.github.io/portafolio_3/)
 
 ## Descripcion
+
+Proyecto Eccomerce de insumos de tatuajes, en Proceso...
 
 Se utiizo:
 
@@ -17,4 +19,5 @@ Se utiizo:
 \*JavaScript
 
 Se utiliza HTML para crear el maquetado de la pagina y con Boostrap y Css se le dieron estilos.
+Se realiza una pequeña pantalla para login.
 Se realizo un carrito de compras con javascript, donde se puede agregar y eliminar productos.
